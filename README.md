@@ -6,3 +6,5 @@
   A monitored structure chat also allows for extra points with incentives "interesting" conversations.
   
   For a rough sketch of the concept, access: [Invision sketch]( http://bit.ly/38yDQN4)
+  
+  If you are interested in contributing to the project, send email to: fernandofisiosport@gmail.com
